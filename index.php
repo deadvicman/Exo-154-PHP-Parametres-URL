@@ -10,7 +10,8 @@
  */
 
 // TODO Votre code ici.
-
+echo "<a href='exo1.php?iteration=10'>lien</a> <br>";
+echo "<a href='exo2.php?iteration=10'>EXERCICE2</a>";
 
 /**
  * Exo 2
